@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kYasHwaNTH1
+- 👋 Hi, I’m Yashwanth
 - 👀 I’m interested in WebD
 - 🌱 I’m currently learning advanced MERN stack
 - 💞️ I’m looking to collaborate.
