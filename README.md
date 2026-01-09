@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yashwanth
-- 👀 I’m interested in WebD
+- 👀 I'm working as a backend developer
 - 🌱 I’m currently learning advanced MERN stack
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me : kesagoniyashwanth@gmail.com
